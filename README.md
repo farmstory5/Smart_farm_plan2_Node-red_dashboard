@@ -52,4 +52,4 @@ Rasberry Pi OS Legacy, Nord-red 프레임워크 개발도구, dashboard 라이�
 <p align="center">
 <img src="https://user-images.githubusercontent.com/130550405/235965250-1beb52b4-8975-4a53-9055-efadaace2668.jpg">
 </p>
-https://www.youtube.com/watch?v=QqqlsFfRtMo
+https://youtu.be/clq28k0lrsg
