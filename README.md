@@ -22,7 +22,7 @@ dashboard를 통하여 작동부전원을 제어할 수 있습니다.<br/>
 <img src="https://user-images.githubusercontent.com/61779129/235959271-294b56da-d533-4abd-90dd-867e891e617e.png">
 </p>
 
-### Node-red 위젯 흐름도
+### Node-red FLOW 흐름도
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61779129/235959572-30756b3b-6056-413c-b176-6aad7734f763.png">
 </p>
